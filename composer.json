@@ -1,0 +1,23 @@
+{
+	"name": "stepanpernica/CMSCurl",
+	"description": "light library to fetch url's by CURL",
+	"license": ["BSD-3-Clause", "GPL-3.0"],
+	"keywords": ["curl", "nette"],
+	"homepage": "https://github.com/stepanpernica/CMSCurl",
+	"authors": [
+		{
+			"name": "Štěpán Pernica",
+			"homepage": ""
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"nette/nette": ">=2.1.0"
+	},
+	"require-dev": {
+
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
