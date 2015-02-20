@@ -1,5 +1,5 @@
 {
-	"name": "stepanpernica/CMSCurl",
+	"name": "stepanpernica/cms-curl",
 	"description": "light library to fetch url's by CURL",
 	"license": ["BSD-3-Clause", "GPL-3.0"],
 	"keywords": ["curl", "nette"],
